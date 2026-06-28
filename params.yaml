@@ -1,3 +1,3 @@
 train:
-  n_estimators: 240
-  max_depth: 30
+  n_estimators: 260
+  max_depth: 34
